@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movieworld/static/css/main.334bdeb1.css",
-    "main.js": "/movieworld/static/js/main.17e65488.js",
-    "index.html": "/movieworld/index.html",
-    "static/media/search.svg": "/movieworld/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.334bdeb1.css.map": "/movieworld/static/css/main.334bdeb1.css.map",
-    "main.17e65488.js.map": "/movieworld/static/js/main.17e65488.js.map"
+    "main.css": "/React-Movie-Website/static/css/main.334bdeb1.css",
+    "main.js": "/React-Movie-Website/static/js/main.9065db8a.js",
+    "index.html": "/React-Movie-Website/index.html",
+    "static/media/search.svg": "/React-Movie-Website/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/React-Movie-Website/static/css/main.334bdeb1.css.map",
+    "main.9065db8a.js.map": "/React-Movie-Website/static/js/main.9065db8a.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.17e65488.js"
+    "static/js/main.9065db8a.js"
   ]
 }
